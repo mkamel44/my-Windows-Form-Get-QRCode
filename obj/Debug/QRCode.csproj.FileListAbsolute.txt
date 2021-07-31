@@ -1,0 +1,40 @@
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\bin\Debug\QRCode.exe
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\bin\Debug\QRCode.pdb
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\QRCode.Properties.Resources.resources
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\QRCode.exe
+C:\Users\1\Desktop\مشروع اخذ صورة QCode\QCode\obj\Debug\QRCode.pdb
+C:\Users\1\Desktop\QRCode\QRCode\bin\Debug\QRCode.exe
+C:\Users\1\Desktop\QRCode\QRCode\bin\Debug\QRCode.pdb
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\QRCode.exe
+C:\Users\1\Desktop\QRCode\QRCode\obj\Debug\QRCode.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\bin\Debug\QRCode.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\bin\Debug\QRCode.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\ResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\QRCode.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\QRCode\obj\Debug\QRCode.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\bin\Debug\QRCode.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\bin\Debug\QRCode.pdb
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\ResolveAssemblyReference.cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\QRCode.exe
+E:\my projects\مشروع مراقبة الدوام عبر الباركود أحمد كرزون\التقرير\QRCode\obj\Debug\QRCode.pdb
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\QRCode.exe
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\QRCode.pdb
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\bin\Debug\QRCode.exe
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\bin\Debug\QRCode.pdb
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\ResolveAssemblyReference.cache
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\WinFormCharpWebCam.mainWinForm.resources
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\QRCode.Properties.Resources.resources
+D:\my projects\مشروعين قراءة و انشاء QRCode مشروعين\GET_QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
